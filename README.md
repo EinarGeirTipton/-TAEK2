@@ -1,0 +1,2 @@
+
+##1. RAM stendur fyrir Random-Access Memory og er notað til að geyma data og virkar sem vinnandi minni og mismunurinn á RAM og hard drive er sá að hard drive geymir allt sem er á sér þegar það er slökkt á honum ó´líkt RAM sem missir allt sem er á honum við að slökkva á sér.
