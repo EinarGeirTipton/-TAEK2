@@ -19,3 +19,15 @@
 		4. Establish a plan of action to resolve the problem and implement the solution.
 		5. Verify Full System functionality and, if applicable, implement preventive measures.
 		6. Document Findings Actions, and Outcomes.
+
+**7.** 	lokuð spurningar eru spurningar sem geta verið svarað sem já eða nei
+		opinn spurningar eru spurningar sem geta bara verið svaraðar með fleiri enn einu orði oftast setningu eða ritgerð.
+		Dæmi um lokaða spurningu er "ertu í bláum jakka?"
+		dæmi um opna spurningu er "hvað er mikil vægasta stríð í sögu mannkinsins?"
+
+**8.**	Jaðar tæki eru hlutir í tölvu annað hvort sem inntakstæki eða úttakstæki eins og t.d skjár, mús, lyklaborð eða prentari.
+
+**9.** 	Dæmi um inntakstæki eru:
+		1. Mús.
+		2. Lyklaborð.
+		3. stýripinni.
